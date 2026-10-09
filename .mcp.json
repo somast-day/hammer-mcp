@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "hammer": {
+      "command": "C:\\Users\\c\\.local\\share\\hammer-mcp\\venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\c\\plugins\\hammer-mcp\\server.py"
+      ],
+      "env": {
+        "PYTHONUTF8": "1",
+        "PYTHONDONTWRITEBYTECODE": "1",
+        "HAMMER_MCP_STATE": "C:\\Users\\c\\.local\\share\\hammer-mcp"
+      },
+      "startup_timeout_sec": 30,
+      "tool_timeout_sec": 180
+    }
+  }
+}
